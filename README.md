@@ -18,23 +18,23 @@ Whether you're browsing through group chats, social media posts, or documents, H
 
 ### Steps
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/tip2663/hextract.git
-   cd hextract
-   ```
+Clone the repository:
+```bash
+git clone https://github.com/tip2663/hextract.git
+cd hextract
+```
 
-    Install dependencies:
+Install dependencies:
 ```bash
 npm install
 ```
 
 Start the development server:
 ```bash
-    npm run dev 
+npm run dev 
 ```
 
-    The app will be running on http://localhost:5174.
+The app will be running on http://localhost:5174.
 
 ## Usage
 
